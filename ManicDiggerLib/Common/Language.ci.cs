@@ -137,7 +137,7 @@
 	internal void AddEnglish()
 	{
 		Add("en", "MainMenu_AssetsLoadProgress", "Loading... {0}%");
-		Add("en", "MainMenu_Singleplayer", "Singleplayer");
+		Add("en", "MainMenu_Singleplayer", "Play");
 		Add("en", "MainMenu_Multiplayer", "Multiplayer");
 		Add("en", "MainMenu_Quit", "&cQuit");
 		Add("en", "MainMenu_ButtonBack", "Back");
