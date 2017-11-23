@@ -6,7 +6,6 @@
         multiplayer = new MenuWidget();
         exit = new MenuWidget();
         widgets[0] = singleplayer;
-        widgets[1] = multiplayer;
         widgets[2] = exit;
         queryStringChecked = false;
         cursorLoaded = false;
@@ -69,7 +68,7 @@
 
         exit.text = menu.lang.Get("MainMenu_Quit");
         exit.x = windowX / 2 - (buttonwidth / 2) * scale;
-        exit.y = windowY - (1 * (buttonheight * scale + spacebetween)) - offsetfromborder * scale;
+        exit.y = windowY - (2 * (buttonheight * scale + spacebetween)) - offsetfromborder * scale;
         exit.sizex = buttonwidth * scale;
         exit.sizey = buttonheight * scale;
         DrawWidgets();
