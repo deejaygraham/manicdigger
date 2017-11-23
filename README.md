@@ -1,7 +1,4 @@
-[![Travis Build Status](https://img.shields.io/travis/manicdigger/manicdigger.svg?style=flat-square)](https://travis-ci.org/manicdigger/manicdigger)
-[![GitHub Issues](https://img.shields.io/github/issues/manicdigger/manicdigger.svg?style=flat-square)](https://github.com/manicdigger/manicdigger/issues)
-[![Latest GitHub Release](https://img.shields.io/github/release/manicdigger/manicdigger.svg?style=flat-square)](https://github.com/manicdigger/manicdigger/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/manicdigger/manicdigger/latest/total.svg?style=flat-square)](https://github.com/manicdigger/manicdigger/releases/latest)
+[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/tkk3krtrhr3pmwic?svg=true)](https://ci.appveyor.com/project/deejaygraham/manicdigger)
 
 Manic Digger
 ============
